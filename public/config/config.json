@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf9806F3f6216EE7Bea7a76d8B0f29202b4AdA2c9",
+  "SCAN_LINK": "https://etherscan.io/address/0xf9806f3f6216ee7bea7a76d8b0f29202b4ada2c9",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Sappy Cats NFT",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 600,
+  "WEI_COST": 35000000000000000,
+  "DISPLAY_COST": 0.035,
+  "GAS_LIMIT": 21000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sappycats",
+  "SHOW_BACKGROUND": true
+}
